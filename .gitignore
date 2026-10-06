@@ -1,0 +1,15 @@
+# Unreal 缓存文件夹
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/Build/
+
+# 编译生成文件
+*.sln
+*.vsconfig
+*.suo
+*.user
+
+# 操作系统垃圾文件
+.DS_Store
+Thumbs.db
